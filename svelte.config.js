@@ -1,4 +1,5 @@
 import preprocessor from 'svelte-preprocess';
+import adapter from '@sveltejs/adapter-netlify';
 
 const config = {
 	preprocess: preprocessor({
