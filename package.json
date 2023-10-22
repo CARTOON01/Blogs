@@ -26,6 +26,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@jridgewell/sourcemap-codec": "^1.4.15",
 		"@sanity/client": "^4.0.0",
 		"@sanity/image-url": "^1.0.1",
 		"highlight.js": "^11.7.0",
