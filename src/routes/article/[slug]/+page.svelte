@@ -29,7 +29,7 @@
 
 <svelte:head>
 	<!-- Primary Meta Tags -->
-	<title>{data.blogs.title} | NotYasho</title>
+	<title>{data.blogs.title} | CARTOON</title>
 	<meta name="title" content="{data.blogs.title} | NotYasho" />
 	<meta name="description" content={data.blogs.description} />
 	<meta name="keywords" content={data.blogs.tags.join(', ')} />

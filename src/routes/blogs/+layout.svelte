@@ -14,7 +14,7 @@
 
 <svelte:head>
 	<!-- Primary Meta Tags -->
-	<title>Blogs | NotYasho</title>
+	<title>Blogs | CARTOON</title>
 	<meta name="title" content="Blogs | NotYasho" />
 	<meta
 		name="description"

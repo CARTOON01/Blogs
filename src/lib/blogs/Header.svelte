@@ -57,7 +57,7 @@
 			</form>
 		</div>
 
-		<a title="Source Code" class="github" href="https://www.github.com/NotYasho/NotYasho/" target="_">
+		<a title="Source Code" class="github" href="https://www.github.com/CARTOON01/blogs/" target="_">
 			<Icon icon="fa:github" />
 		</a>
 	</header>

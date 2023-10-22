@@ -13,7 +13,7 @@
 </script>
 
 <svelte:head>
-	<title>Saved - NotYasho</title>
+	<title>Saved - CARTOON</title>
 </svelte:head>
 
 <section class="main" in:fly={{ y: 10, duration: 500 }}>

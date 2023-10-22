@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Explore - NotYasho</title>
+	<title>Explore - CARTOON</title>
 </svelte:head>
 
 <div class="grid">
