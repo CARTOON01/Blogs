@@ -8,7 +8,7 @@
 
 <svelte:head>
 	<!-- Primary Meta Tags -->
-	<title>Contact | NotYasho</title>
+	<title>Contact | CARTOON</title>
 	<meta name="title" content="Contact | NotYasho" />
 	<meta
 		name="description"
@@ -18,7 +18,7 @@
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://notyasho.netlify.app/contact" />
-	<meta property="og:title" content="Contact | NotYasho" />
+	<meta property="og:title" content="Contact | CARTOON" />
 	<meta
 		property="og:description"
 		content="Official contact page for my website. Contact me through this contact form. (writing these long-ass descriptions is such a pain)"

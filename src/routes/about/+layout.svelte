@@ -8,7 +8,7 @@
 
 <svelte:head>
 	<!-- Primary Meta Tags -->
-	<title>About | NotYasho</title>
+	<title>About | CARTOON</title>
 	<meta name="title" content="About | NotYasho" />
 	<meta
 		name="description"

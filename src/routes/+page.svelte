@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Portfolio | NotYasho</title>
+	<title>Portfolio | CARTOON</title>
 	<meta name="title" content="Portfolio | NotYasho" />
 	<meta
 		name="description"
